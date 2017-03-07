@@ -1,1 +1,1 @@
-# test
+# test fixed build script
